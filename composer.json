@@ -1,0 +1,16 @@
+{
+    "name": "yossiee/graphql-sample",
+    "description": "My tutorial of GraphQL using PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yossiee",
+            "email": "38056766+yossiee@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "webonyx/graphql-php": "^14.4",
+        "psr/http-message": "^1.0"
+    }
+}
